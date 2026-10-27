@@ -1,0 +1,6 @@
+{
+  "name": "Family Tree Builder",
+  "description": "Interactive Windows 11 dark-themed desktop & canvas application for building, styling, and exporting family trees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
